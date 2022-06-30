@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\bin\Debug\net6.0-windows\AutoUpdaterUI.exe
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\bin\Debug\net6.0-windows\AutoUpdaterUI.deps.json
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\bin\Debug\net6.0-windows\AutoUpdaterUI.runtimeconfig.json
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\bin\Debug\net6.0-windows\AutoUpdaterUI.dll
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\bin\Debug\net6.0-windows\ref\AutoUpdaterUI.dll
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\bin\Debug\net6.0-windows\AutoUpdaterUI.pdb
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.Form1.resources
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.csproj.GenerateResource.cache
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.AssemblyInfo.cs
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.dll
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\ref\AutoUpdaterUI.dll
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.pdb
+C:\Users\User\Documents\Siroca\AutoUpdaterUI\AutoUpdaterUI\obj\Debug\net6.0-windows\AutoUpdaterUI.genruntimeconfig.cache

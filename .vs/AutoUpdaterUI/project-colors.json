@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0cd868a2-d724-4e31-90d4-a68369d2f0eb": {
+      "ProjectGuid": "0cd868a2-d724-4e31-90d4-a68369d2f0eb",
+      "DisplayName": "AutoUpdaterUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
